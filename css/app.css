@@ -1,0 +1,14 @@
+body{
+    padding-top: 50px;
+}
+
+.editar {
+    color: #445555;
+}
+.borrar {
+    color: red;
+}
+.detalles {
+    color: green;
+}
+
